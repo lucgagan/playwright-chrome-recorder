@@ -4,6 +4,8 @@
 
 This repo provides tools to export P Tests from [Google Chrome DevTools' Recordings](https://goo.gle/devtools-recorder) programmatically.
 
+Check out https://ray.run/ for a similar Playwright browser extension https://ray.run/browser-extension
+
 ## Prerequisites
 
 In order to export JSON files from Chrome DevTools Recorder you will need to be on Chrome 101 or newer.
